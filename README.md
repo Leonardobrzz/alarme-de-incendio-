@@ -7,7 +7,7 @@ turma de Engenharia de Computação 2022.2 <br>
 * Horley
 * Jorge
 <hr>
-# Components:
+# Components
  
 * Buzzer
 * Sensor de gás MQ-7

@@ -7,8 +7,8 @@ turma de Engenharia de Computação 2022.2 <br>
 * Horley
 * Jorge
 <hr>
+
 # Components
- 
 * Buzzer
 * Sensor de gás MQ-7
 * Greenpill STM32F070F6P6

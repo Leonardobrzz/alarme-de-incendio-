@@ -3,7 +3,7 @@ Projeto final da disciplina de Sistemas Microprocessados, Universidade Federal d
 turma de Engenharia de Computação 2022.2 <br>
 # Integrantes:
 * Leonardo Alves braz - 474370
-* Rodrigo
+* Rodrigo da Silva Carvalho Maia - 511162
 * Horley
 * Jorge
 <hr>

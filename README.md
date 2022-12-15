@@ -16,7 +16,8 @@ turma de Engenharia de Computação 2022.2 <br>
 * Módulo Wi-Fi ESP8266
 * Sensor de chama fogo
 # Imagens
-![Alt]("C:\Users\POSITIVO\Downloads\msg1212450152-11989.jpg")
+![](https://github.com/Leonardobrzz/alarme-de-incendio-/blob/main/msg1212450152-11988.jpg)
+![](https://github.com/Leonardobrzz/alarme-de-incendio-/blob/main/msg1212450152-11989.jpg)
 # Descrição
 O projeto consiste em um circuito alarme de incêndio com a utilização do Stm32, ambos os
 sensores possuem pino analógico e digital, no nosso caso com a quantidade limitada de

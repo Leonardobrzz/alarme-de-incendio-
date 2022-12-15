@@ -25,4 +25,6 @@ pinos analógicos iremos conecta-los através do pino digital, que irá retornar
 não detecte nenhum problema ou 1 se detectar gás ou fogo. Também utilizaremos um pino
 para ligar o buzzer, para emitir o alerta. Ambos os sensores possuem ajuste de
 sensibilidade, o que permite regulá-los de acordo com a necessidade.
+Utilizamos também uma ligação na qual enviava um código dizendo se havia ou não a presença de fogo no ambiente (0 ou 1) através de um aplicativo na qual foi o MQTT, iríamos utilizar um módulo ESP8266, só que encontramos um jeito mais fácil de fazer a transmissão servidor para o Android através do NodeMCU, na qual utilizamos um código do próprio servidor, fizemos algumas alterações e com isso conseguimos enviar o alerta para o Android. 
 
+  

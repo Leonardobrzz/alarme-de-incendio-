@@ -18,7 +18,6 @@ turma de Engenharia de Computação 2022.2 <br>
 # Imagens
 ![](https://github.com/Leonardobrzz/alarme-de-incendio-/blob/main/msg1212450152-11988.jpg)
 ![](https://github.com/Leonardobrzz/alarme-de-incendio-/blob/main/msg1212450152-11989.jpg)
-![](https://github.com/Leonardobrzz/alarme-de-incendio-/blob/main/msg1212450152-11989.jpg)
 
 # Descrição
 O projeto consiste em um circuito alarme de incêndio com a utilização do Stm32, ambos os

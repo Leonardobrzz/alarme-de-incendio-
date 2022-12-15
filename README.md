@@ -4,8 +4,7 @@ turma de Engenharia de Computação 2022.2 <br>
 # Integrantes:
 * Leonardo Alves braz - 474370
 * Rodrigo da Silva Carvalho Maia - 511162
-* Horley
-* Jorge
+* Horley Alfredo Dos Santos - 473104
 <hr>
 
 # Components
